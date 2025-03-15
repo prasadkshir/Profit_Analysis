@@ -37,5 +37,5 @@ This project analyzes **how marketing, R&D, and administrative spending impact c
 ## 📬 Contact Me  
 📧 **Email:** kshirsagarprasad92@gmail.com  
 🔗 **LinkedIn:** [Prasad Kshirsagar](https://www.linkedin.com/in/kshirsagarprasad92)  
-🔗 **GitHub Repository:** [Profit Analysis](https://github.com/YOUR-USERNAME/Profit_Analysis)  
+🔗 **GitHub Repository:** [Profit Analysis](https://github.com/prasadkshir/Profit_Analysis.git)  
 
